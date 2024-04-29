@@ -14,6 +14,8 @@ Also, please make sure your addition doesn't result in any errors in-game.
 - _Federal Signal Vama AS-380_ [fs_vama380_toki] - Used in Poland
 - _Ulvo Sirra SOS-102_ [ulvo_sos102_toki] - Typically used on older fire trucks in Finland.
 - _Becker Sinfo_ [becker_sinfo_toki] - Old German siren
+- _Standby RSG MCS_ [standby_rsg_mcs] - British siren
+- _Standby RSG MCS Rumbler_ [standby_rsg_mcs_rumbler] - British rumbler siren
 
 ## Links
 [Workshop page for this addon](https://steamcommunity.com/sharedfiles/filedetails/?id=3234278149)
