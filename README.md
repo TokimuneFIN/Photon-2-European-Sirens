@@ -2,7 +2,8 @@
 ## Main
 This is an unofficial pack for Photon 2 that will include different European sirens
 ## Contributing
-Feel free to contribute to this pack. Just please make sure the sound files you upload are somewhat high quality and actually work in-game. 
+Feel free to contribute to this pack. Just please make sure the sound files you upload are somewhat high quality and actually work in-game. Also make sure to name the files uniquely, for example _fs_vama420_yourname_.
+
 When you contribute, remember to include your Steam profile link so I can properly credit you!
 
 Also, please make sure your addition doesn't result in any errors in-game.
