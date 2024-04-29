@@ -20,3 +20,5 @@ Also, please make sure your addition doesn't result in any errors in-game.
 [Photon 2](https://steamcommunity.com/sharedfiles/filedetails/?id=3128242636)
 
 [Tokimunes profile](https://steamcommunity.com/id/RealTokimune)
+
+[Photon 2 Wiki](https://github.com/photonle/Photon-v2/wiki)
