@@ -1,4 +1,4 @@
-# [Unofficial] European Sirens made for Photon 2
+# [Unofficial] European Sirens Pack for Photon 2
 ## Main
 This is an unofficial pack for Photon 2 that will include different European sirens.
 ## Contributing
