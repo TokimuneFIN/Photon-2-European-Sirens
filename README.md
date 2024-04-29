@@ -11,7 +11,7 @@ Also, please make sure your addition doesn't result in any errors in-game.
 
 - _Federal Signal Vama AS-420_ [fs_vama420_toki] - Was used on older Finnish police cars
 - _Federal Signal Vama AS-380_ [fs_vama380_toki] - Used in Poland
-- _Ulvo Sirra SOS-102_ _ [ulvo_sos102_toki] - Typically used on older fire trucks in Finland.
+- _Ulvo Sirra SOS-102_ [ulvo_sos102_toki] - Typically used on older fire trucks in Finland.
 - _Becker Sinfo_ [becker_sinfo_toki] - Old German siren
 
 # Links
