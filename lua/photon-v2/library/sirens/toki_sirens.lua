@@ -52,3 +52,16 @@ Photon2.RegisterSiren(
 		}
 	}
 )
+
+Photon2.RegisterSiren(
+	{
+		Name = "swe_siren_toki", 
+		Make = "Sweden",
+		Model = "Swedish Siren",
+		Author = "Tokimune", -- Source (Epidemic Sound Effects on Youtube)
+		Sounds = {
+			["WAIL"] = { Sound = "photon/sirens/swe_siren_toki/swe_siren_toki_wail.wav", 	Default = "T1" },
+			["YELP"] = { Sound = "photon/sirens/swe_siren_toki/swe_siren_toki_yelp.wav", 	Default = "T2" },
+		}
+	}
+)
