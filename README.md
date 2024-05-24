@@ -1,4 +1,4 @@
-# [Unofficial] European Sirens made for Photon 2
+# [Unofficial] European Sirens Pack for Photon 2
 ## Main
 This is an unofficial pack for Photon 2 that will include different European sirens.
 ## Contributing
@@ -21,7 +21,5 @@ Also, please make sure your addition doesn't result in any errors in-game.
 [Workshop page for this addon](https://steamcommunity.com/sharedfiles/filedetails/?id=3234278149)
 
 [Photon 2](https://steamcommunity.com/sharedfiles/filedetails/?id=3128242636)
-
-[Tokimunes profile](https://steamcommunity.com/id/RealTokimune)
 
 [Photon 2 Wiki](https://github.com/photonle/Photon-v2/wiki)
