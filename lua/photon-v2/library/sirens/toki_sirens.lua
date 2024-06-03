@@ -65,3 +65,16 @@ Photon2.RegisterSiren(
 		}
 	}
 )
+
+Photon2.RegisterSiren(
+	{
+		Name = "sarco_sos106_toki", 
+		Make = "Sarco",
+		Model = "SOS-106",
+		Author = "Tokimune", -- Source (Miska Törö on Youtube)
+		Sounds = {
+			["WAIL"] = { Sound = "photon/sirens/sarco_sos106_toki/sarco_sos106_wail.wav", 	Default = "T1" },
+			["YELP"] = { Sound = "photon/sirens/sarco_sos106_toki/sarco_sos106_yelp.wav", 	Default = "T2" },
+		}
+	}
+)
