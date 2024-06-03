@@ -16,6 +16,7 @@ Also, please make sure your addition doesn't result in any errors in-game.
 - _Becker Sinfo_ [becker_sinfo_toki] - Old German siren
 - _Standby RSG MCS_ [standby_rsg_mcs] - British siren
 - _Standby RSG MCS Rumbler_ [standby_rsg_mcs_rumbler] - British rumbler siren
+- _Swedish Siren_ [swe_siren_toki]
 
 ## Links
 [Workshop page for this addon](https://steamcommunity.com/sharedfiles/filedetails/?id=3234278149)
